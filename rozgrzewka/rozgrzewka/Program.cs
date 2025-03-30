@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //OPERATORY
             //zadanie1
             int number = 19;
             float money = 19.1f;
@@ -53,6 +54,19 @@
             Console.WriteLine(mul);
             Console.WriteLine(mod);
 
+
+            //Zadanie5
+            string c, d, e;
+            c = "Ala ";
+            d = "ma ";
+            e = "kota";
+            string result2;
+            result2 = a + b + c;
+            Console.WriteLine(result2);
+            //można dodawać-łączyć stringi
+
+
+            
         }
     }
 }
